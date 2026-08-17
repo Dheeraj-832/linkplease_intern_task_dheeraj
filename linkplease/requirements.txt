@@ -1,6 +1,6 @@
 fastapi==0.115.0
 uvicorn[standard]==0.30.6
-SQLAlchemy==2.0.35
+SQLAlchemy==2.0.51
 requests==2.32.3
 # Only needed when DATABASE_URL points at Postgres (e.g. on Render).
 # Harmless to install locally; SQLite needs no driver.
