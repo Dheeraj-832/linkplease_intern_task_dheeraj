@@ -4,4 +4,4 @@ SQLAlchemy==2.0.35
 requests==2.32.3
 # Only needed when DATABASE_URL points at Postgres (e.g. on Render).
 # Harmless to install locally; SQLite needs no driver.
-psycopg[binary]==3.2.1
+psycopg[binary]==3.2.10
